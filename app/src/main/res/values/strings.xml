@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="save_button_content_description">Save contact changes</string>
+    <string name="contact_first_name_hint">First name</string>
+    <string name="contact_last_name_hint">Last name</string>
+    <string name="contact_phone_hint">Phone</string>
+</resources>
